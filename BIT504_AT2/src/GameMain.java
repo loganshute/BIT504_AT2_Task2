@@ -2,7 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-
 @SuppressWarnings("serial")
 public class GameMain extends JPanel implements MouseListener{
 	//Constants for game 
