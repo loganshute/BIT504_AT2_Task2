@@ -39,7 +39,6 @@ public class Cell {
       graphic2D.drawOval(x1, y1, GameMain.SYMBOL_SIZE, GameMain.SYMBOL_SIZE);
     }
   }
-  /** Set this cell's content to EMPTY */
   public void clear() {
 
     //Sets the value of content to Empty
